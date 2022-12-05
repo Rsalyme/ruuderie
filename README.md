@@ -3,7 +3,7 @@
 I'm a software engineer & technical architect building enterprise applications, ethereum smart contracts (Solidity & Fe) and rust applications.
 
 - 🔭 I'm cuurently exploring Rust based tooling in the ethereum ecosystem and DeFi.
-- 👯 I’m looking for collaborations on Solidity, Rust and Vue.js projects that would enrich user or developer experience in Ethereum.
+- 👯 I’m looking for collaborations on Solidity, Rust, Typescript and Vue.js projects that would enrich user or developer experience in Ethereum.
 - 💬 Ask me about salesforce, rust, cryptography, ethereum, Zk Snarks or anything random.
 - 😎 Feel free to reach me on [Twitter](https://twitter.com/ruud_awakening), [LinkedIn](https://linkedin.com/in/ruudsalymerie) or anywhere!
 
