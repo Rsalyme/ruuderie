@@ -46,8 +46,8 @@ I'm a software engineer & technical architect building enterprise applications, 
 
 <h3 align="left">Backend Technologies</h3>
 <p align="left">
-      <a href="https://www.deno.land/" target="_blank" rel="noreferrer"> <img align="right" src="https://deno.land/logo.svg" height="50px" alt="the deno mascot dinosaur standing in the rain"></a>     
-        <a href="https://www.nodejs.org/" target="_blank" rel="noreferrer"> <img align="right" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="node"></a>      
+      <a href="https://www.deno.land/" target="_blank" rel="noreferrer"> <img src="https://deno.land/logo.svg" height="50px" alt="the deno mascot dinosaur standing in the rain"></a>     
+        <a href="https://www.nodejs.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="node"></a>      
   <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="graphql"/> </a>
 </p>
 
