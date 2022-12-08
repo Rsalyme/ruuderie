@@ -15,9 +15,9 @@ I'm a software engineer & technical architect building enterprise applications, 
 - 👯 I am looking to collaborate on **Blockchain & Rust Projects**
 
 - 🤝 I am looking to meet with **Builders**
-[![ReadMe Card](https://github-readme-stats.vercel.app/api?username=ruuderie&show_icons=true&include_all_commits=true&hide_rank=true&bg_color=30,FF5F6D,ffb88c&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api?username=ruuderie&show_icons=true&include_all_commits=true&hide_rank=true&bg_color=30,FF5F6D,ffb88c&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/ruuderie/github-readme-stats)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alymurtazamemon&theme=gotham&hide_border=true&layout=compact&langs_count=6" alt="alymurtazamemon" align="right">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruuderie&theme=gotham&hide_border=true&layout=compact&langs_count=6" alt="ruuderie" align="right">
 
 <h3 align="left">Blockchains</h3>
 <p align="left">
@@ -65,7 +65,7 @@ I'm a software engineer & technical architect building enterprise applications, 
 <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="googlecloud"/> </a>
 <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" alt="azure"/> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git"/> </a>
-  <a href="https://twilio.com/" target="_blank" rel="noreferrer"> <img src="  https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white" alt="twilio"/> </a>
+  <a href="https://twilio.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white" alt="twilio"/> </a>
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman"/> </a>
   <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="heroku"/> </a>
 </p>
