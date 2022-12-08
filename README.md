@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-I'm a software engineer & technical architect building enterprise applications, ethereum smart contracts (Solidity & Fe) and rust applications.
-
+ I'm Ruud I'm a Technical Architect and Software Engineer with hands-on experience in implementing and designing enterprise applications. Currently, I am engineering enterprise solutions on the Salesforce platform using Apex and LWC (JavaScript), Python, and Rust. 
+ 
 - 🔭 I'm curently exploring Rust based tooling in the ethereum ecosystem and DeFi.
 - 👯 I’m looking for collaborations on Solidity, Rust, Typescript and Vue.js projects that would enrich user or developer experience in Ethereum.
 - 💬 Ask me about salesforce, rust, cryptography, ethereum, Zk Snarks or anything random.
