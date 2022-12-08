@@ -5,6 +5,8 @@
 - 🔭 I'm curently exploring Rust based tooling in the ethereum ecosystem and DeFi.
 - 👯 I’m looking for collaborations on Solidity, Rust, Typescript and Vue.js projects that would enrich user or developer experience in Ethereum.
 - 💬 Ask me about salesforce, rust, cryptography, ethereum, Zk Snarks or anything random.
+- 👯 I am looking to collaborate on **Blockchain & Rust Projects**
+- 🤝 I am looking to meet with **Builders**
 
 <h3 align="center">Connect with me on:</h3>
 <p align="center">
@@ -12,9 +14,6 @@
   <a href="https://twitter.com/ruud_awakening"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 </p>
 
-- 👯 I am looking to collaborate on **Blockchain & Rust Projects**
-
-- 🤝 I am looking to meet with **Builders**
 [![ReadMe Card](https://github-readme-stats.vercel.app/api?username=ruuderie&show_icons=true&include_all_commits=true&hide_rank=true&bg_color=30,FF5F6D,ffb88c&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/ruuderie/github-readme-stats)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruuderie&theme=gotham&hide_border=true&layout=compact&langs_count=6" alt="ruuderie" align="right">
