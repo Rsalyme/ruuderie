@@ -3,10 +3,10 @@
  I'm Ruud I'm a Technical Architect and Software Engineer with hands-on experience in implementing and designing enterprise applications. Currently, I am engineering enterprise solutions on the Salesforce platform using Apex and LWC (JavaScript), Python, and Rust. 
  
 - 🔭 I'm exploring Rust based tooling in the bitcoin & ethereum ecosystem and DeFi.
-- 👯 I’m looking for collaborations using Bitcoin Lightning Network, RGB, Solidity, Rust, Typescript and Vue.js that would enrich user or developer experience in Ethereum or Cryptography.
+- 👯 I’m looking for collaborations using Bitcoin Lightning Network, RGB, Solidity, Rust, Typescript and Vue.js that would enrich user or developer experience in Bitcoin, Ethereum or Cryptography.
 - 💬 Ask me about bitcoin,salesforce, rust, cryptography, ethereum, Zk Snarks or anything random.
 - 👯 I am looking to collaborate on **Blockchain & Rust Projects**
-- 🤝 I am looking to meet with **Builders**
+- 🤝 I am looking to meet with **Builders** 
 
 <h3 align="center">Connect with me on:</h3>
 <p align="center">
